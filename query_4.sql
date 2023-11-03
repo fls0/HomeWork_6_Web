@@ -1,0 +1,1 @@
+SELECT AVG(score) as avg_score FROM scores;
